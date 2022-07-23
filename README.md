@@ -3,7 +3,7 @@
 
 - B.S. in Electrical and Electronics Engineering at METU
 
-- M.S. in Computer Engineering at METU (present), research topic: parallel computing, parallel processing
+- M.S. in Computer Engineering at METU (present), research topics: parallel computing, parallel processing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
