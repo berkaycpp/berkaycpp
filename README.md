@@ -1,9 +1,9 @@
 <h1 align="center">Hello everybody, I'm Berkay Şahin</h1>
 <h3 align="center">I am currently working as an embedded software engineer for safety-critical and real-time systems, but pursuing for new skills from software world</h3>
 
-- B.S. in Electrical and Electronics Engineering **at METU**
+- B.S. in Electrical and Electronics Engineering at METU
 
-- M.S. in Computer Engineering **at METU (present)**, research topic: parallel computing, parallel processing
+- M.S. in Computer Engineering at METU (present), research topic: parallel computing, parallel processing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
